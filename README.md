@@ -1,5 +1,3 @@
-# web
-
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
@@ -10,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/@nikhilsharmath" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilsharmath?logo=twitter&style=for-the-badge" alt="@nikhilsharmath" /></a> </p>
 
 - 🌱 I’m currently learning **Angular , Java**
+
+- 📝 I regularly write articles on [https://hashnode.com/@nikhilsharma292](https://hashnode.com/@nikhilsharma292)
 
 - 📫 How to reach me **nikhilsharmanikk53@gmail.com**
 
@@ -32,6 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithnikhilsharma&show_icons=true&locale=en" alt="codewithnikhilsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithnikhilsharma&" alt="codewithnikhilsharma" /></p>
+
 
 <h3 align="left">My New Bloges:</h3>
 
